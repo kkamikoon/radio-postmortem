@@ -40,3 +40,4 @@ RADIO의 각 항목은 다음과 같습니다.
 
 # 참고
 * [What is incident management?](https://www.ibm.com/topics/incident-management)
+* [인시던트 사후 검토 프로세스의 중요성](https://www.atlassian.com/ko/incident-management/postmortem)
