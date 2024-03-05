@@ -1,6 +1,6 @@
-# RADIO Retrospective Technique
+# RADIO Postmortem Technique
 
-I recommend applying the RADIO retrospective technique for helping systemize incident management.
+I recommend applying the RADIO postmortem technique for helping systemize incident management.
 
 ## Why?
 Generally, incident management process should consider 'Incident recognizing', 'Damage identifying', 'Resolving incident', and 'Reviewing the incident'.
@@ -40,4 +40,4 @@ Each item of RADIO is as follows:
 
 # References
 * [What is incident management?](https://www.ibm.com/topics/incident-management)
-* 
+* [The importance of an incident postmortem process](https://www.atlassian.com/incident-management/postmortem)
