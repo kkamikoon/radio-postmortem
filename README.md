@@ -1,6 +1,6 @@
 # RADIO Retrospective Technique
 
-I recommend applying the RADIO retrospective technique when a problem occurs in a service or product, and in the process of solving it.
+I recommend applying the RADIO retrospective technique for helping systemize incident management.
 
 ## Why?
 Generally, incident management process should consider 'Incident recognizing', 'Damage identifying', 'Resolving incident', and 'Reviewing the incident'.
