@@ -8,7 +8,7 @@ And also should consider systematizing the process.
 I suggest a retrospective technique to help you to build systematic incident management process.
 
 ## RADIO?
-The RADIO retrospective technique requires 4 items:
+The RADIO retrospective technique requires 5 items:
 
 - Recognizing incident and identify it. 
 - Scale of damage.
